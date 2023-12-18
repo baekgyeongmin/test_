@@ -1,6 +1,6 @@
 ---
 title: "NYCTaxi"
-author: "백경민(201821967)"
+author: "백경민"
 format: dashboard
 execute: 
   enabled: true
